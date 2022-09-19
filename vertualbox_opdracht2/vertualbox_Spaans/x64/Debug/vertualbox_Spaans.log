@@ -1,4 +1,6 @@
 ﻿  vertualbox_Spaans.cpp
-C:\Users\mijst\Documents\Git\Dev_programing_vertualboks\vertualbox_opdracht2\vertualbox_Spaans\vertualbox_Spaans.cpp(42,63): error C2661: 'std::thread::thread': no overloaded function takes 2 arguments
-C:\Users\mijst\Documents\Git\Dev_programing_vertualboks\vertualbox_opdracht2\vertualbox_Spaans\vertualbox_Spaans.cpp(43,64): error C2661: 'std::thread::thread': no overloaded function takes 2 arguments
-C:\Users\mijst\Documents\Git\Dev_programing_vertualboks\vertualbox_opdracht2\vertualbox_Spaans\vertualbox_Spaans.cpp(44,64): error C2661: 'std::thread::thread': no overloaded function takes 2 arguments
+C:\Users\mijst\Documents\Git\Dev_programing_vertualboks\vertualbox_opdracht2\vertualbox_Spaans\vertualbox_Spaans.cpp(106,34): warning C4307: '*': signed integral constant overflow
+C:\Users\mijst\Documents\Git\Dev_programing_vertualboks\vertualbox_opdracht2\vertualbox_Spaans\vertualbox_Spaans.cpp(123,34): warning C4307: '*': signed integral constant overflow
+C:\Users\mijst\Documents\Git\Dev_programing_vertualboks\vertualbox_opdracht2\vertualbox_Spaans\vertualbox_Spaans.cpp(141,34): warning C4307: '*': signed integral constant overflow
+C:\Users\mijst\Documents\Git\Dev_programing_vertualboks\vertualbox_opdracht2\vertualbox_Spaans\vertualbox_Spaans.cpp(207,23): warning C4018: '<': signed/unsigned mismatch
+  vertualbox_Spaans.vcxproj -> C:\Users\mijst\Documents\Git\Dev_programing_vertualboks\vertualbox_opdracht2\x64\Debug\vertualbox_Spaans.exe
