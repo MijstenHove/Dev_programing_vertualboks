@@ -27,14 +27,46 @@ std::chrono::system_clock::time_point startDate; //Saves the time when the progr
 std::mutex* consoleMutex; //mutex used for prevent the console solapation
 
 #pragma endregion
+class Inputlistener
+{
+private:
+    static Inputlistener* instance;
+    Inputlistener()
+    {
+    }
+
+public:
+    static Inputlistener* Instance()
+    {
+        if (instance == nullptr)
+        {
+            instance = new Inputlistener();
+        }
+
+        return instance;
+    }
+
+    void printhallo()
+    {
+        std::cout << "hallo " << std::endl;
+    }
+};
+Inputlistener* Inputlistener::instance = nullptr;
+
 
 int main()
 {
+    Inputlistener::Instance();
+
+
+
+
+
     //They can be initialized in the definition, but I prefer to initialize them here
     startDate = std::chrono::system_clock::now();
     consoleMutex = new std::mutex();
 
-    int exampleUsed = 1;//Change this variable for use diferents examples
+    int exampleUsed = 6;//Change this variable for use diferents examples
 
     switch (exampleUsed)
     {

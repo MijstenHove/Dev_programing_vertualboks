@@ -1,0 +1,12 @@
+﻿  ConsoleControl.cpp
+C:\Users\mijst\Documents\Git\Dev_programing_vertualboks\Vertualbox_task\vertualbox_Task\ConsoleControl.h(45,2): warning C4091: 'static ': ignored on left of 'ConsoleControl' when no variable is declared
+  EjemploMovimientoConsola.cpp
+C:\Users\mijst\Documents\Git\Dev_programing_vertualboks\Vertualbox_task\vertualbox_Task\ConsoleControl.h(45,2): warning C4091: 'static ': ignored on left of 'ConsoleControl' when no variable is declared
+C:\Users\mijst\Documents\Git\Dev_programing_vertualboks\Vertualbox_task\vertualbox_Task\EjemploMovimientoConsola.cpp(48,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mijst\Documents\Git\Dev_programing_vertualboks\Vertualbox_task\vertualbox_Task\EjemploMovimientoConsola.cpp(48,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mijst\Documents\Git\Dev_programing_vertualboks\Vertualbox_task\vertualbox_Task\EjemploMovimientoConsola.cpp(48,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\mijst\Documents\Git\Dev_programing_vertualboks\Vertualbox_task\vertualbox_Task\EjemploMovimientoConsola.cpp(49,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mijst\Documents\Git\Dev_programing_vertualboks\Vertualbox_task\vertualbox_Task\EjemploMovimientoConsola.cpp(49,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mijst\Documents\Git\Dev_programing_vertualboks\Vertualbox_task\vertualbox_Task\EjemploMovimientoConsola.cpp(49,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  vertualbox_Task.vcxproj -> C:\Users\mijst\Documents\Git\Dev_programing_vertualboks\Vertualbox_task\vertualbox_Task\x64\Debug\vertualbox_Task.exe
