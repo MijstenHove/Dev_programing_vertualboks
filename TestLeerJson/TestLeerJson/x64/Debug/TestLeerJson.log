@@ -1,0 +1,4 @@
+﻿  jsoncpp.cpp
+  TestLeerJson.cpp
+C:\Users\mijst\Documents\Git\Dev_programing_vertualboks\TestLeerJson\TestLeerJson\TestLeerJson.cpp(49,31): warning C4018: '<': signed/unsigned mismatch
+  TestLeerJson.vcxproj -> C:\Users\mijst\Documents\Git\Dev_programing_vertualboks\TestLeerJson\x64\Debug\TestLeerJson.exe

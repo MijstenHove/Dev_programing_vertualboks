@@ -1,0 +1,28 @@
+{
+	"Character" : 
+	{
+		"coins" : 5,
+		"life" : 10,
+		"name" : "Capitana Test",
+    "weapons": [
+      {
+        "type": 1,
+        "damage": 1,
+        "range": 1,
+        "color": "blue"
+      },
+      {
+        "type": 1,
+        "damage": 1,
+        "range": 1,
+        "color": "red"
+      },
+      {
+        "type": 1,
+        "damage": 1,
+        "range": 1,
+        "woodType": "oak"
+      }
+    ]
+	}
+}
