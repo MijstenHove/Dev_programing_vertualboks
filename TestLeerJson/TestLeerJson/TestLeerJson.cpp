@@ -67,7 +67,8 @@ public:
         jsonValue["life"] = this->life;
         jsonValue["coins"] = this->coins;
         jsonValue["name"] = this->name;
-
+        
+        newChar->weapond->
         Json::Value weaponsArray = Json::Value(Json::arrayValue);
 
         for (std::string weapon : *this->weapons)
